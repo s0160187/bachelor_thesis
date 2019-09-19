@@ -1,0 +1,4 @@
+[submodule "bachelor_data"]
+	path = bachelor_data
+	url = git@github.com:s0160187/bachelor_data.git
+	branch = master
